@@ -62,4 +62,4 @@ Anastasia Mia Martalia
 
 anastasiamiamartalia@gmail.com 
 
-https://www.linkedin.com/in/anastasia-mia-martalia/
+linkedin.com/in/anastasia-mia-martalia
