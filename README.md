@@ -10,7 +10,7 @@ Proyek ini merupakan analisis mendalam terhadap data transaksi Kimia Farma selam
 
 *   **Google BigQuery:** Untuk penyimpanan data (data warehousing) dan transformasi data menggunakan SQL.
 *   **Google Looker Studio:** Untuk membuat dasbor interaktif dan visualisasi data.
-*   **Git & GitHub:** Untuk kontrol versi dan manajemen proyek.
+*   **Git dan GitHub:** Untuk kontrol versi dan manajemen proyek.
 
 ---
 
@@ -30,9 +30,9 @@ Proyek ini merupakan analisis mendalam terhadap data transaksi Kimia Farma selam
 
 ---
 
-## 📊 Dashboard Showcase
+## 📊 Tampilan Dashboard
 
-### [➡️ Klik di sini untuk melihat Dasbor Interaktif Langsung]
+### ➡️ Klik di sini untuk melihat Dasbor Interaktif Langsung
 https://lookerstudio.google.com/reporting/ef4db08b-55c7-4992-aff0-855f9c79e60b
 
 ### Halaman 1: Executive Overview
@@ -43,7 +43,7 @@ https://lookerstudio.google.com/reporting/ef4db08b-55c7-4992-aff0-855f9c79e60b
 
 ---
 
-## 💡 Temuan Kunci & Rekomendasi
+## 💡 Temuan Kunci dan Rekomendasi
 
 1.  **Stagnasi Pertumbuhan:** Tren pendapatan cenderung datar selama periode 4 tahun.
     *   **Rekomendasi:** Merumuskan strategi ekspansi pasar baru atau diversifikasi produk untuk memecah siklus stagnasi.
