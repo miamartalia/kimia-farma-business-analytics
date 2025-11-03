@@ -32,7 +32,8 @@ Proyek ini merupakan analisis mendalam terhadap data transaksi Kimia Farma selam
 
 ## 📊 Dashboard Showcase
 
-### [➡️ Klik di sini untuk melihat Dasbor Interaktif Langsung][(https://lookerstudio.google.com/reporting/ef4db08b-55c7-4992-aff0-855f9c79e60b)]
+### [➡️ Klik di sini untuk melihat Dasbor Interaktif Langsung]
+https://lookerstudio.google.com/reporting/ef4db08b-55c7-4992-aff0-855f9c79e60b
 
 ### Halaman 1: Executive Overview
 ![Executive Overview](dashboard/01_executive_overview.png)
@@ -58,5 +59,7 @@ Proyek ini merupakan analisis mendalam terhadap data transaksi Kimia Farma selam
 ## 📞 Kontak
 
 Anastasia Mia Martalia 
+
 anastasiamiamartalia@gmail.com 
+
 https://www.linkedin.com/in/anastasia-mia-martalia/
